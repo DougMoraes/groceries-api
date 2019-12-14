@@ -1,0 +1,15 @@
+{
+  "groceries" : [
+    {
+      "id" : 0,
+      "category" : "Batata",
+      "product" : "Vastkokende Aardappel",
+      "quantity" : "2.5",
+      "unit-measurement" : "kg",
+      "price" : "3.35",
+      "market" : "Plus",
+      "date" : "03/12/2019",
+      "sale" : false
+    }
+  ]
+}
