@@ -646,8 +646,41 @@
       "market": "Plus",
       "price": "2.97",
       "date": "2020-01-04",
-      "sale": "true",
+      "sale": true,
       "id": 58
+    },
+    {
+      "category": "Leite em Po",
+      "product": "Nido",
+      "quantity": "400",
+      "unit": "Gr",
+      "market": "ZamZam",
+      "price": "4.49",
+      "date": "2020-01-04",
+      "sale": false,
+      "id": 59
+    },
+    {
+      "category": "Peixe",
+      "product": "Zalmfilet",
+      "quantity": "600",
+      "unit": "Gr",
+      "market": "Feira",
+      "price": "6.5",
+      "date": "2020-01-04",
+      "sale": false,
+      "id": 60
+    },
+    {
+      "category": "Camarao",
+      "product": "Verse Gamba",
+      "quantity": "500",
+      "unit": "Gr",
+      "market": "Feira",
+      "price": "6.5",
+      "date": "2020-01-04",
+      "sale": false,
+      "id": 61
     }
   ]
 }
